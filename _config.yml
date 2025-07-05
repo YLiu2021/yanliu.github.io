@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yan Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "PhD"  
   bio              : "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
   location         : "Earth"
-  employer         : "University of Chinese Academy of Sciences"
+  # employer         : "University of Chinese Academy of Sciences"
   uri              : # URL
   email            : "liuyy2019@163.com" 
 
